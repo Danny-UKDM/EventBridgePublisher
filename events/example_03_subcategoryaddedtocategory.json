@@ -1,0 +1,45 @@
+﻿{
+  "detail": {
+    "metadata": {
+      "type": "CATEGORY",
+      "status": "ADDED_TO_CATEGORY",
+      "version": "1-1-0",
+      "occurredOn": "2023-01-01T03:00:00.000Z"
+    },
+    "data": {
+      "category": {
+        "id": "fb841b60-4b75-419e-8657-bbd4a3580200",
+        "name": "category-name",
+        "displayName": "category-display-name",
+        "localisedDisplayName": {
+          "en": "EN category-display-name",
+          "fr": "FR category-display-name"
+        },
+        "regionCode": "GB",
+        "contexts": [
+          "context-1",
+          "context-2"
+        ],
+        "memberTargets": [
+          "student"
+        ]
+      },
+      "subcategory": {
+        "id": "ffcdfa0a-403c-4320-bdf5-d71ecd27010b",
+        "name": "subcategory-name",
+        "displayName": "subcategory-display-name",
+        "localisedDisplayName": {
+          "en": "EN subcategory-display-name",
+          "fr": "FR subcategory-display-name"
+        },
+        "regionCode": "GB",
+        "contexts": [
+          "context-1"
+        ],
+        "memberTargets": [
+          "student"
+        ]
+      }
+    }
+  }
+}
